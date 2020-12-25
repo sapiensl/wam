@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/sapiensl.github.io\/wam\/mapML.json"
+                 "value":"/wam/mapML.json"
                 }],
          "type":"tilelayer",
          "visible":true,
